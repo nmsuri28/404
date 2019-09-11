@@ -1,0 +1,23 @@
+{
+  "name": "404",
+  "version": "1.0.0",
+  "description": "404 for the library. Exercise included in serverUnsolved.js &lt;i>OR&lt;/i> just head over to the server.js for solved.",
+  "main": "serverSolved.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nmsuri28/404.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nmsuri28/404/issues"
+  },
+  "homepage": "https://github.com/nmsuri28/404#readme",
+  "dependencies": {
+    "dotenv": "^8.1.0",
+    "express": "^4.17.1"
+  }
+}
